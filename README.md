@@ -175,4 +175,9 @@ Como oportunidades de evolução, podem ser explorados ajustes de hiperparâmetr
 
 ---
 
-**Projeto desenvolvido para fins de estudo e portfólio, com foco em análise de dados e Machine Learning aplicado à previsão de risco de crédito.**
+## Autor
+Guilherme Georgetti Albuquerque Galvão
+
+Analista de Dados / Engenheiro de Produção — UNESP
+
+🔗 LinkedIn: www.linkedin.com/in/guilherme-georgetti
